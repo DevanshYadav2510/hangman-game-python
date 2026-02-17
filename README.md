@@ -154,11 +154,14 @@ Through this project, I strengthened my ability to:
 
 ## 👤 Author
 
-**A.B.N.S Rishik**
+**Devansh Yadav**
+
 First-Year B.Tech (Artificial Intelligence) Student
+
 SRM Institute of Science and Technology, Ramapuram Campus
 
 📍 Chennai, India
+
 ✉️ Email: ay0252218@gmail.com
 
 ---
